@@ -25,19 +25,35 @@ namespace ProjectAPITest.Repositories
             return _context.Products.ToList();
         }
 
-        public Products? GetById(Guid id)
+        public Products GetById(Guid id)
         {
             return _context.Products.FirstOrDefault(produto => produto.IdProduct == id);            
         }
 
-        public Products Post(Products product)
+        public void Post(Products product)
         {
-            throw new NotImplementedException();
+
+                _context.Products.Add(product);
+                
+                _context.SaveChanges() ;
+                        
         }
 
-        public Products Put(Guid id, Products product)
+        public void Put(Guid id, Products product)
         {
-            throw new NotImplementedException();
+            Products productFind = _context.Products.FirstOrDefault(produto => produto.IdProduct == id);
+
+            
+            if (productFind != null)
+            {
+                productFind.Name = product.Name;
+                productFind.Price = product.Price;
+
+                
+                
+                _context.Products.Update(productFind);
+                _context.SaveChanges();
+            }
         }
     }
 }

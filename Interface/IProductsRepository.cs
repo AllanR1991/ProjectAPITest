@@ -24,7 +24,7 @@ namespace ProjectAPITest.Interface
         /// </summary>
         /// <param name="product">O objeto Products a ser adicionado.</param>
         /// <returns>O objeto Products adicionado.</returns>
-        public Products Post(Products product);
+        public void Post(Products product);
 
         /// <summary>
         /// Atualiza um produto existente no banco de dados.
@@ -32,7 +32,7 @@ namespace ProjectAPITest.Interface
         /// <param name="id">O ID do produto a ser atualizado.</param>
         /// <param name="product">O objeto Products com os dados atualizados.</param>
         /// <returns>O objeto Products atualizado.</returns>
-        public Products Put(Guid id, Products product);
+        public void Put(Guid id, Products product);
 
         /// <summary>
         /// Remove um produto do banco de dados.

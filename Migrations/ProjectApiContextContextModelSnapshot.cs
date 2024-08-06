@@ -37,18 +37,18 @@ namespace ProjectAPITest.Migrations
 
                     b.HasKey("IdProduct");
 
-                    b.ToTable("Products");
+                    b.ToTable("Product");
 
                     b.HasData(
                         new
                         {
-                            IdProduct = new Guid("f1146f04-4a03-4b9b-a9c4-38aa118d8308"),
+                            IdProduct = new Guid("2609c286-be91-495e-bd78-109a8b7ea8d4"),
                             Name = "Samsung A52s",
                             Price = 2768.90m
                         },
                         new
                         {
-                            IdProduct = new Guid("3a6c1b48-00a1-4c3b-96af-33d7025a967b"),
+                            IdProduct = new Guid("a5da2aff-0092-4c52-8202-5ffacec20d12"),
                             Name = "Apple iPhone 15 Pro Max 512 GB -Titânio Natural",
                             Price = 9699m
                         });

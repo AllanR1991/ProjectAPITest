@@ -6,7 +6,7 @@ using System.Reflection;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-/*
+
 builder.Services
     .AddControllers()
     .AddNewtonsoftJson(options =>
@@ -49,7 +49,7 @@ builder.Services.AddAuthentication(options =>
         ValidAudience = "webapi-event+"
     };
 });
-*/
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
@@ -77,7 +77,6 @@ builder.Services.AddSwaggerGen(options =>
     var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
     options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
 
-    /*
     options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
     {
         Name = "Authorization",
@@ -100,7 +99,7 @@ builder.Services.AddSwaggerGen(options =>
             },
             new string[] {}
         }
-    });*/
+    });
 });
 
 // CORS
@@ -135,7 +134,7 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.UseAuthorization();
+//app.UseAuthorization();
 
 app.MapControllers();
 

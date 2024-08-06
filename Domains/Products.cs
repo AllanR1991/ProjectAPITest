@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ProjectAPITest.Domains
 {
+    [Table("Product")]
     public class Products
     {
         /// <summary>
@@ -22,7 +23,7 @@ namespace ProjectAPITest.Domains
         /// Esta propriedade é armazenada como uma string com comprimento máximo de 100 caracteres.
         /// </remarks>
         [Column(TypeName = "VARCHAR(100)")] // Define o tipo de coluna no banco de dados como VARCHAR com comprimento máximo de 100 caracteres.
-        [Required("Nome do Produto é Obrigatório.")]
+        [Required(ErrorMessage = "Nome do Produto é Obrigatório.")]
         public string Name { get; set; }
 
         /// <summary>
@@ -32,7 +33,7 @@ namespace ProjectAPITest.Domains
         /// Esta propriedade é armazenada como um decimal com até 18 dígitos no total e 2 dígitos após o ponto decimal.
         /// </remarks>
         [Column(TypeName = "decimal(18,2)")] // Define o tipo de coluna no banco de dados como decimal com precisão 18 e escala 2.
-        [Required("Preço do produto é obrigatório.")]
+        [Required(ErrorMessage = "Preço do produto é obrigatório.")]
         public decimal Price { get; set; }
     }
 }

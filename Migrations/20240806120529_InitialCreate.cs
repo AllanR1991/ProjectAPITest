@@ -8,13 +8,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ProjectAPITest.Migrations
 {
     /// <inheritdoc />
-    public partial class Initial : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Products",
+                name: "Product",
                 columns: table => new
                 {
                     IdProduct = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
@@ -23,16 +23,16 @@ namespace ProjectAPITest.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Products", x => x.IdProduct);
+                    table.PrimaryKey("PK_Product", x => x.IdProduct);
                 });
 
             migrationBuilder.InsertData(
-                table: "Products",
+                table: "Product",
                 columns: new[] { "IdProduct", "Name", "Price" },
                 values: new object[,]
                 {
-                    { new Guid("3a6c1b48-00a1-4c3b-96af-33d7025a967b"), "Apple iPhone 15 Pro Max 512 GB -Titânio Natural", 9699m },
-                    { new Guid("f1146f04-4a03-4b9b-a9c4-38aa118d8308"), "Samsung A52s", 2768.90m }
+                    { new Guid("2609c286-be91-495e-bd78-109a8b7ea8d4"), "Samsung A52s", 2768.90m },
+                    { new Guid("a5da2aff-0092-4c52-8202-5ffacec20d12"), "Apple iPhone 15 Pro Max 512 GB -Titânio Natural", 9699m }
                 });
         }
 
@@ -40,7 +40,7 @@ namespace ProjectAPITest.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Products");
+                name: "Product");
         }
     }
 }
