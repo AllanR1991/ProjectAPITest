@@ -6,7 +6,210 @@ Este README orienta sobre a criação de uma API com ASP.NET Core, incluindo o p
 ## Índice
 
 1. [Criando um Projeto ASP.NET Core Vazio](#criando-um-projeto-aspnet-core-vazio)
-
-<p>Lorem ipsum dolor sit amet. Eos corrupti itaque qui maxime quia et illo quia et quibusdam nihil qui atque reprehenderit qui quos temporibus ut repellendus expedita. Et quibusdam nobis et facilis explicabo eos consequatur sequi vel fuga architecto id ullam optio qui veritatis labore aut esse provident. Et rerum laborum et consequatur quisquam qui facere totam et odio assumenda ad ullam reiciendis et aliquam exercitationem. </p><p>Id molestiae voluptatem ut tenetur perspiciatis non vitae fugiat vel quia molestias et maxime maxime et consequuntur eaque. Et sapiente culpa nam consequatur velit ut cupiditate animi hic quam sunt et explicabo natus non quia autem. </p><p>Sed facere dignissimos qui neque magni sed pariatur quibusdam quo saepe obcaecati a totam sunt. Ea dolorum aperiam ad laudantium repellat non modi iure eos dolorem voluptatem id cumque deleniti id sunt alias non temporibus deleniti. Sit sapiente unde ad dolor internos est dignissimos sapiente est libero tempora in magni ratione. Et praesentium nisi vel quaerat sequi et minima placeat sed voluptatibus dicta ut possimus dolores cum reiciendis exercitationem. </p><p>Sit ipsam eius qui quis numquam aut suscipit ipsam eos saepe possimus ut labore saepe cum blanditiis temporibus et atque voluptas. Et doloribus explicabo qui dicta consequuntur et inventore beatae ut minima animi sed ullam amet sit optio voluptas! Qui doloremque esse nam sequi earum ut ducimus dicta. Quo quas iusto ex officia quasi et sunt ipsam et dolore nihil et numquam laboriosam est doloremque nihil At neque nesciunt! </p><p>Qui consequatur consequuntur in distinctio galisum sed autem ipsam sit consequatur error? Sed voluptatibus amet et perferendis excepturi ut quasi distinctio in exercitationem iusto est placeat nisi ut nobis quibusdam aut amet quam. Est harum molestiae et impedit tempora est suscipit rerum qui galisum cupiditate vel impedit consequatur aut eaque voluptatem sed perferendis nostrum. </p><p>Aut voluptatum odit ut omnis modi aut voluptas nisi ut mollitia ratione. Eos sunt voluptas 33 velit voluptatem et officiis autem est omnis repellendus? </p><p>Et perferendis deleniti aut cupiditate beatae non ipsam pariatur et rerum fuga qui provident voluptatum et voluptas impedit. Et quod maxime et unde voluptas non officia temporibus et odit molestiae non dicta molestiae. </p><p>Et quia obcaecati qui eius pariatur vel veniam galisum! Sed nulla dolorum ab mollitia voluptatem ut autem distinctio aut voluptas iure est sunt corrupti aut officia voluptates. </p><p>Ab nemo quibusdam et fuga voluptatem quo dolor mollitia ut harum sunt? Non itaque autem quo consequuntur ratione et possimus asperiores ut aspernatur labore! Quo possimus quisquam sed voluptatem possimus aut error consequuntur eos dolor inventore id Quis distinctio. </p><p>Et molestiae doloremque eos dignissimos sunt et quidem facilis. Et exercitationem facere eum amet velit aut ullam voluptatem eum eligendi quibusdam ex rerum reprehenderit et culpa eius quo iste ipsa. Id quia porro et eius commodi ut blanditiis provident sit magni necessitatibus et illum rerum sed dolor adipisci ad mollitia vero. Qui asperiores iure et impedit maiores vel odio voluptas sit dolores doloremque ea labore autem et quae delectus non nisi velit. </p><p>Et laboriosam tempore ut porro omnis id velit iure eum delectus consequatur et deserunt sunt et quod repellendus vel impedit ipsam. Hic voluptatem voluptatem aut expedita praesentium eos quidem perspiciatis a deleniti esse. Ad odio fuga in consectetur eveniet et suscipit natus. </p><p>Et recusandae sint et culpa assumenda At dolores eaque est quisquam galisum non ipsum molestias aut temporibus nobis non beatae alias. Hic molestiae harum id fugiat sunt qui perspiciatis eius in cumque repellat aut earum quia ut quos expedita 33 labore adipisci! </p><p>Eum explicabo alias est commodi alias est ullam nisi et atque rerum qui aspernatur voluptatum. Quo quisquam voluptates non fugit neque et explicabo nulla ea voluptas nemo ut nihil odit sed blanditiis rerum. Quo officia quia quo enim molestias est sequi inventore et unde excepturi et deleniti pariatur. </p><p>Aut illum suscipit vel beatae odit eos optio architecto qui sunt quam non animi fugit aut tempore Quis et maiores eveniet. Et sint praesentium At omnis ratione ut dolorem libero est necessitatibus dolor est quae voluptatum ut nisi dolores sit quam quisquam. </p><p>Sit quasi galisum ut accusantium dolore ab eius nulla in voluptatem enim ab quis esse sit maiores doloremque eum illum excepturi. Et dolorem officia est suscipit dolores sit sint voluptatibus sit vero adipisci. </p><p>Hic asperiores velit aut sunt alias cum voluptatum quaerat non sunt omnis sed similique itaque. Est nihil minus qui molestias odio vel dolore nisi hic sunt eaque vel inventore odio. Sed unde debitis qui porro necessitatibus quo cumque illum sed architecto dolor quo voluptas galisum. Qui rerum fugit est reiciendis praesentium non debitis velit vel accusantium pariatur et neque commodi est facilis eligendi. </p><p>Quo culpa dolores et dignissimos reiciendis rem sequi molestiae hic delectus saepe qui nisi dolorem nam autem maiores? Ut architecto dolor non ipsum soluta ea eaque incidunt ut corporis animi a debitis nihil! </p><p>Et optio ipsam aut eveniet officiis non voluptas nostrum. Eum velit unde sed aperiam molestias sit dolores voluptate qui distinctio voluptatum id cumque dicta aut iure distinctio. Et recusandae ratione qui odit velit et sunt excepturi vel galisum dolor. Non error fugiat non incidunt natus vel repellat consequatur ea dolorem voluptatem At temporibus aliquam! </p><p>Eos ipsa temporibus ad exercitationem ullam qui harum consequatur aut repellat eligendi eum error deserunt quo dolores minima sit voluptatum voluptatem. Et galisum facilis ut temporibus voluptas id galisum quod ab repellat voluptates. A voluptas sequi qui quae rerum et odio rerum ut sapiente atque. Ut quisquam quos qui rerum molestiae est adipisci dolorem. </p><p>Et voluptatem impedit et consequatur repudiandae vel quos alias. Et iusto molestiae est tenetur vero et molestiae accusamus sit cumque molestiae. </p>
+2. [Instalando Pacotes do Framework](#instalando-pacotes-do-framework)
+3. [Criando a Estrutura de Pastas e Classes](#criando-a-estrutura-de-pastas-e-classes)
+4. [Configurando o Contexto do Banco de Dados](#configurando-o-contexto-do-banco-de-dados)
+5. [Configurando o Program.cs](#configurando-o-programcs)
+6. [Criando e Aplicando Migrações](#criando-e-aplicando-migracoes)
 
 ## Criando um Projeto ASP.NET Core Vazio
+
+1. Abra o Visual Studio ou o terminal.
+2. Crie um novo projeto selecionando "ASP.NET Core Web API".
+3. Escolha a opção "Empty" (Vazio) para um projeto sem modelos ou controladores pré-configurados.
+4. Nomeie seu projeto (por exemplo, ProjectAPITest) e clique em "Create" (Criar).
+
+## Instalando Pacotes do Framework
+Abra o terminal ou o Gerenciador de Pacotes NuGet no Visual Studio e execute os seguintes comandos para instalar os pacotes necessários:
+
+~~~shell
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Newtonsoft.Json
+dotnet add package Swashbuckle.AspNetCore
+~~~
+
+## Criando a Estrutura de Pastas e Classes
+
+### Criando a Pasta `Domain`
+
+1. No Visual Studio, clique com o botão direito no projeto e selecione "Add" > "New Folder" (Adicionar > Nova Pasta).
+2. Nomeie a pasta como Domains.
+3. Dentro da pasta `Domains`, crie uma classe chamada `Products`:
+
+~~~csharp
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ProjectAPITest.Domains
+{
+    public class Products
+    {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public Guid IdProduct { get; set; }
+
+        [Column(TypeName = "VARCHAR(100)")]
+        [Required("Nome do Produto é Obrigatório.")]
+        public string Name { get; set; }
+
+        [Column(TypeName = "decimal(18,2)")]
+        [Required("Preço do produto é obrigatório.")]
+        public decimal Price { get; set; }
+    }
+}
+
+~~~
+
+### Criando a Pasta `Interface`
+1. Adicione uma nova pasta chamada `Interface`.
+2. Dentro da pasta `Interface`, crie um arquivo chamado `IProductsRepository.cs`:
+
+~~~csharp
+using ProjectAPITest.Domains;
+
+namespace ProjectAPITest.Interface
+{
+    public interface IProductsRepository
+    {
+        List<Products> Get();
+        Products GetById(int id);
+        Products Post(Products product);
+        Products Put(int id, Products product);
+        void Delete(int id);
+    }
+}
+
+~~~
+
+### Criando o Contexto do Banco de Dados
+1. Crie uma pasta chamada `Context`.
+2. Dentro da pasta `Context`, crie um arquivo chamado `ProjectApiContextContext.cs`:
+~~~csharp
+using Microsoft.EntityFrameworkCore;
+using ProjectAPITest.Domains;
+
+namespace ProjectAPITest.Context
+{
+    public class ProjectApiContextContext : DbContext
+    {
+        public DbSet<Products> Products { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("Server = NOTE12-SALA19\\SQLEXPRESS; Database = ProjectAPITest; User Id = sa; pwd = senai@134; TrustServerCertificate=True;");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Products>()
+                .HasData(
+                    new Products
+                    {
+                        IdProduct = Guid.NewGuid(),
+                        Name = "Samsung A52s",
+                        Price = 2768.90m
+                    },
+                    new Products
+                    {
+                        IdProduct = Guid.NewGuid(),
+                        Name = "Apple iPhone 15 Pro Max 512 GB -Titânio Natural",
+                        Price = 9699m
+                    }
+                );
+
+            base.OnModelCreating(modelBuilder);
+        }
+    }
+}
+~~~
+
+### Configurando o `Program.cs`
+1. No arquivo `Program.cs`, configure os serviços e o pipeline HTTP:
+~~~csharp
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using Newtonsoft.Json;
+using System.Reflection;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services
+    .AddControllers()
+    .AddNewtonsoftJson(options =>
+    {
+        options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
+        options.SerializerSettings.NullValueHandling = NullValueHandling.Ignore;
+    });
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(options =>
+{
+    options.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Version = "v1",
+        Title = "API Event Plus",
+        Description = "Api responsável pelo gerenciamento de um sistema, onde seja possível realizar a gestão de eventos na escola.",
+        Contact = new OpenApiContact
+        {
+            Name = "Allan Rodrigues",
+            Email = "allanrodrigues1991.ar@gmail.com",
+            Url = new Uri("https://github.com/AllanR1991")
+        },
+    });
+
+    var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
+});
+
+// CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy",
+        builder =>
+        {
+            builder.AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+        });
+});
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+        options.RoutePrefix = string.Empty;
+    });
+}
+
+app.UseCors("CorsPolicy");
+
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
+
+~~~
+
+
+### Criando e Aplicando Migrações
+
+1. Abra o Package Manager Console no Visual Studio (Tools > NuGet Package Manager > Package Manager Console).
+2. Execute o comando para criar uma migração:
+  ~~~csharp
+   Add-Migration InitialCreate
+~~~
+
+3. Em seguida, atualize o banco de dados com:
+  ~~~csharp
+   Update-Database
+~~~
