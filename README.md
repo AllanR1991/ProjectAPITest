@@ -8,9 +8,11 @@ Este README orienta sobre a criação de uma API com ASP.NET Core, incluindo o p
 1. [Criando um Projeto ASP.NET Core Vazio](#criando-um-projeto-aspnet-core-vazio)
 2. [Instalando Pacotes do Framework](#instalando-pacotes-do-framework)
 3. [Criando a Estrutura de Pastas e Classes](#criando-a-estrutura-de-pastas-e-classes)
-4. [Configurando o Contexto do Banco de Dados](#configurando-o-contexto-do-banco-de-dados)
+   - [Criando a Pasta `Domain`](#criando-a-pasta-domain)
+   - [Criando a Pasta `Interface`](#criando-a-pasta-interface)
+   - [Criando o Contexto do Banco de Dados](#criando-o-contexto-do-banco-de-dados)
 5. [Configurando o Program.cs](#configurando-o-programcs)
-6. [Criando e Aplicando Migrações](#criando-e-aplicando-migracoes)
+6. [Criando e Aplicando Migrações](#criando-e-aplicando-migrações)
 
 ## Criando um Projeto ASP.NET Core Vazio
 
@@ -124,7 +126,7 @@ namespace ProjectAPITest.Context
 }
 ~~~
 
-### Configurando o `Program.cs`
+## Configurando o `Program.cs`
 1. No arquivo `Program.cs`, configure os serviços e o pipeline HTTP:
 ~~~csharp
 using Microsoft.IdentityModel.Tokens;
@@ -201,7 +203,7 @@ app.Run();
 ~~~
 
 
-### Criando e Aplicando Migrações
+## Criando e Aplicando Migrações
 
 1. Abra o Package Manager Console no Visual Studio (Tools > NuGet Package Manager > Package Manager Console).
 2. Execute o comando para criar uma migração:
