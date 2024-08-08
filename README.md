@@ -1,5 +1,10 @@
 # ProjectAPITest
 
+## Para saber mais
+
+- [Teste XUnit](https://learn.microsoft.com/pt-br/dotnet/core/testing/unit-testing-with-dotnet-test)
+- [Teste com MVC](https://learn.microsoft.com/pt-br/aspnet/core/mvc/controllers/testing?view=aspnetcore-8.0 )
+
 ## Documentação de Criação de API com ASP.NET Core
 Este README orienta sobre a criação de uma API com ASP.NET Core, incluindo o projeto, pacotes, estrutura de pastas, configuração de contexto e configuração do Swagger.
 
